@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tuwebentresdias.github.io/jm-electric/sitemap.xml
+Sitemap: https://jm-electric.com.ar/jm-electric/sitemap.xml
