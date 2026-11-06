@@ -4,7 +4,7 @@
 
 Reserva de 12 temas distintos para unas 12 semanas; no equivale a tres meses de facturación ni fija fechas. El ensayo comercial informado es de un mes, con una nota semanal. No hay programación automática.
 
-Solo la primera nota está habilitada en la versión local. Las otras tres quedan como “Próximamente”, sin enlaces en home o índice y fuera del sitemap. Sus rutas contienen únicamente un aviso con noindex; los textos completos se conservan abajo. No se publicó ningún cambio. La salida semanal será manual y requiere autorización; no hay fechas programadas.
+Las guías de las semanas 1 a 3 están publicadas y enlazadas en el índice del blog; la guía 04 sigue como “Próximamente” y fuera del sitemap. La salida semanal es manual y requiere autorización; no hay fechas programadas automáticamente.
 
 Estados: `proposed`, `approved`, `drafted`, `review`, `ready`, `published`. Solo marcar `published` después de verificar el sitio servido.
 
@@ -12,9 +12,9 @@ Estados: `proposed`, `approved`, `drafted`, `review`, `ready`, `published`. Solo
 
 | Semana | Estado | Tema | Slug | Intención del lector | Datos por confirmar |
 |---:|---|---|---|---|---|
-| 1 | review | Qué conviene revisar antes de instalar un aire acondicionado | `antes-instalar-aire-acondicionado` | Qué información reunir sobre el ambiente, la ubicación del equipo y la instalación eléctrica antes de consultar. | Alcance del servicio y cobertura para cada consulta; revisión técnica del contenido general |
-| 2 | drafted | Paneles solares On-Grid y Off-Grid: diferencias para una primera consulta | `paneles-solares-on-grid-off-grid` | Cómo cambia la elección según la conexión a la red, el consumo y la necesidad de respaldo. | Alcance del servicio y cobertura para cada consulta; revisión técnica del contenido general |
-| 3 | drafted | Cuándo conviene revisar la instalación eléctrica de una vivienda | `cuando-revisar-instalacion-electrica-vivienda` | Señales y cambios de uso que justifican pedir una evaluación profesional de la instalación. | Alcance del servicio y cobertura para cada consulta; revisión técnica del contenido general |
+| 1 | published | Qué conviene revisar antes de instalar un aire acondicionado | `antes-instalar-aire-acondicionado` | Qué información reunir sobre el ambiente, la ubicación del equipo y la instalación eléctrica antes de consultar. | Alcance del servicio y cobertura para cada consulta; revisión técnica del contenido general |
+| 2 | published | Paneles solares On-Grid y Off-Grid: diferencias para una primera consulta | `paneles-solares-on-grid-off-grid` | Cómo cambia la elección según la conexión a la red, el consumo y la necesidad de respaldo. | Alcance del servicio y cobertura para cada consulta; revisión técnica del contenido general |
+| 3 | published | Cuándo conviene revisar la instalación eléctrica de una vivienda | `cuando-revisar-instalacion-electrica-vivienda` | Señales y cambios de uso que justifican pedir una evaluación profesional de la instalación. | Alcance del servicio y cobertura para cada consulta; revisión técnica del contenido general |
 | 4 | drafted | Qué tener en cuenta antes de instalar cámaras de seguridad | `antes-instalar-camaras-seguridad` | Objetivos de cobertura, conectividad, grabación y privacidad para preparar una primera consulta. | Alcance del servicio y cobertura para cada consulta; revisión técnica del contenido general |
 | 5 | proposed | Mantenimiento de aire acondicionado: qué consultar si cambió su funcionamiento | `mantenimiento-aire-acondicionado` | Reconocer cambios y preparar una consulta | Alcance real del mantenimiento y recomendaciones del fabricante |
 | 6 | proposed | Qué datos reunir para consultar por un grupo electrógeno | `consulta-mantenimiento-grupo-electrogeno` | Preparar una consulta de mantenimiento | Equipos atendidos y alcance del servicio |
@@ -40,9 +40,9 @@ Los borradores HTML están en `blogs/{slug}/index.html`; su resumen figura en el
 - Sin verificación del sitio publicado: respondió HTTP 403 desde el entorno durante la revisión. No se hizo commit, push ni despliegue.
 
 
-## Borrador reservado — paneles-solares-on-grid-off-grid
+## Guía publicada — paneles-solares-on-grid-off-grid
 
-**Estado:** `drafted` · Próximamente. Pendiente de revisión y habilitación semanal.
+**Estado:** `published` · Publicada el 2026-10-30. URL: https://jm-electric.com.ar/blogs/paneles-solares-on-grid-off-grid/ .
 
 Energía solar
 
@@ -114,9 +114,9 @@ Consultar por WhatsApp
 ↗
 
 
-## Borrador reservado — cuando-revisar-instalacion-electrica-vivienda
+## Guía publicada — cuando-revisar-instalacion-electrica-vivienda
 
-**Estado:** `drafted` · Próximamente. Pendiente de revisión y habilitación semanal.
+**Estado:** `published` · Publicada el 2026-11-06. URL: https://jm-electric.com.ar/blogs/cuando-revisar-instalacion-electrica-vivienda/ .
 
 Electricidad
 
