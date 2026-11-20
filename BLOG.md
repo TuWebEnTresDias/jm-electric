@@ -4,7 +4,7 @@
 
 Reserva de 12 temas distintos para unas 12 semanas; no equivale a tres meses de facturación ni fija fechas. El ensayo comercial informado es de un mes, con una nota semanal. No hay programación automática.
 
-Las guías de las semanas 1 a 3 están publicadas y enlazadas en el índice del blog; la guía 04 sigue como “Próximamente” y fuera del sitemap. La salida semanal es manual y requiere autorización; no hay fechas programadas automáticamente.
+Las guías de las semanas 1 a 5 están publicadas y enlazadas en el índice del blog. La salida semanal es manual y requiere autorización; no hay fechas programadas automáticamente.
 
 Estados: `proposed`, `approved`, `drafted`, `review`, `ready`, `published`. Solo marcar `published` después de verificar el sitio servido.
 
@@ -16,7 +16,7 @@ Estados: `proposed`, `approved`, `drafted`, `review`, `ready`, `published`. Solo
 | 2 | published | Paneles solares On-Grid y Off-Grid: diferencias para una primera consulta | `paneles-solares-on-grid-off-grid` | Cómo cambia la elección según la conexión a la red, el consumo y la necesidad de respaldo. | Alcance del servicio y cobertura para cada consulta; revisión técnica del contenido general |
 | 3 | published | Cuándo conviene revisar la instalación eléctrica de una vivienda | `cuando-revisar-instalacion-electrica-vivienda` | Señales y cambios de uso que justifican pedir una evaluación profesional de la instalación. | Alcance del servicio y cobertura para cada consulta; revisión técnica del contenido general |
 | 4 | published | Qué tener en cuenta antes de instalar cámaras de seguridad | `antes-instalar-camaras-seguridad` | Objetivos de cobertura, conectividad, grabación y privacidad para preparar una primera consulta. | Alcance del servicio y cobertura para cada consulta; revisión técnica del contenido general |
-| 5 | proposed | Mantenimiento de aire acondicionado: qué consultar si cambió su funcionamiento | `mantenimiento-aire-acondicionado` | Reconocer cambios y preparar una consulta | Alcance real del mantenimiento y recomendaciones del fabricante |
+| 5 | published | Mantenimiento de aire acondicionado: qué consultar si cambió su funcionamiento | `mantenimiento-aire-acondicionado` | Reconocer cambios y preparar una consulta | Alcance real del mantenimiento y recomendaciones del fabricante |
 | 6 | proposed | Qué datos reunir para consultar por un grupo electrógeno | `consulta-mantenimiento-grupo-electrogeno` | Preparar una consulta de mantenimiento | Equipos atendidos y alcance del servicio |
 | 7 | proposed | Iluminación para el hogar: cómo describir el resultado que buscás | `planificar-iluminacion-hogar` | Comunicar necesidades de iluminación | Opciones y alcance del proyecto |
 | 8 | proposed | Cableado estructurado: cuándo consultar por una red de datos | `cuando-consultar-cableado-estructurado` | Identificar necesidades de conectividad | Tipos de instalaciones atendidas |
@@ -75,9 +75,9 @@ Consultar por WhatsApp
 ↗
 
 
-## Borrador reservado — antes-instalar-camaras-seguridad
+## Guía publicada — antes-instalar-camaras-seguridad
 
-**Estado:** `drafted` · Próximamente. Pendiente de revisión y habilitación semanal.
+**Estado:** `published` · Publicada el 2026-11-13. URL: https://jm-electric.com.ar/blogs/antes-instalar-camaras-seguridad/.
 
 Cámaras y redes
 
@@ -160,3 +160,7 @@ Sustituye el estado de disponibilidad y sitemap de la primera verificación: aho
 ## Tarjetas de la landing — referencia visual del usuario
 
 La home y el índice usan tarjetas con imagen superior, categoría y resumen. Fotos existentes de climatización, panel solar y tablero eléctrico. No hay foto verificada de cámaras en los recursos del sitio: la tarjeta usa una portada tipográfica que indica “Imagen pendiente”, sin atribuir una foto ajena al negocio. Las tres próximas notas siguen sin enlaces. El manifiesto de publicación anterior queda obsoleto por estos cambios de diseño; se debe generar uno nuevo antes de publicar.
+
+## Guía publicada — mantenimiento-aire-acondicionado
+
+**Estado:** `published` · Publicada el 2026-11-20. URL: https://jm-electric.com.ar/blogs/mantenimiento-aire-acondicionado/ .
