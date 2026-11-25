@@ -4,7 +4,7 @@
 
 Reserva de 12 temas distintos para unas 12 semanas; no equivale a tres meses de facturación ni fija fechas. El ensayo comercial informado es de un mes, con una nota semanal. No hay programación automática.
 
-Las guías de las semanas 1 a 5 están publicadas y enlazadas en el índice del blog. La salida semanal es manual y requiere autorización; no hay fechas programadas automáticamente.
+Las guías de las semanas 1 a 6 están publicadas y enlazadas en el índice del blog. La salida semanal es manual y requiere autorización; no hay fechas programadas automáticamente.
 
 Estados: `proposed`, `approved`, `drafted`, `review`, `ready`, `published`. Solo marcar `published` después de verificar el sitio servido.
 
@@ -17,7 +17,7 @@ Estados: `proposed`, `approved`, `drafted`, `review`, `ready`, `published`. Solo
 | 3 | published | Cuándo conviene revisar la instalación eléctrica de una vivienda | `cuando-revisar-instalacion-electrica-vivienda` | Señales y cambios de uso que justifican pedir una evaluación profesional de la instalación. | Alcance del servicio y cobertura para cada consulta; revisión técnica del contenido general |
 | 4 | published | Qué tener en cuenta antes de instalar cámaras de seguridad | `antes-instalar-camaras-seguridad` | Objetivos de cobertura, conectividad, grabación y privacidad para preparar una primera consulta. | Alcance del servicio y cobertura para cada consulta; revisión técnica del contenido general |
 | 5 | published | Mantenimiento de aire acondicionado: qué consultar si cambió su funcionamiento | `mantenimiento-aire-acondicionado` | Reconocer cambios y preparar una consulta | Alcance real del mantenimiento y recomendaciones del fabricante |
-| 6 | proposed | Qué datos reunir para consultar por un grupo electrógeno | `consulta-mantenimiento-grupo-electrogeno` | Preparar una consulta de mantenimiento | Equipos atendidos y alcance del servicio |
+| 6 | published | Qué datos reunir para consultar por un grupo electrógeno | `consulta-mantenimiento-grupo-electrogeno` | Preparar una consulta de mantenimiento | Equipos atendidos y alcance del servicio |
 | 7 | proposed | Iluminación para el hogar: cómo describir el resultado que buscás | `planificar-iluminacion-hogar` | Comunicar necesidades de iluminación | Opciones y alcance del proyecto |
 | 8 | proposed | Cableado estructurado: cuándo consultar por una red de datos | `cuando-consultar-cableado-estructurado` | Identificar necesidades de conectividad | Tipos de instalaciones atendidas |
 | 9 | proposed | Energía solar y cortes de luz: qué preguntar sobre el respaldo | `energia-solar-respaldo-cortes` | Distinguir generación de respaldo | Soluciones ofrecidas y límites de autonomía |
@@ -164,3 +164,7 @@ La home y el índice usan tarjetas con imagen superior, categoría y resumen. Fo
 ## Guía publicada — mantenimiento-aire-acondicionado
 
 **Estado:** `published` · Publicada el 2026-11-20. URL: https://jm-electric.com.ar/blogs/mantenimiento-aire-acondicionado/ .
+
+## Guía publicada — consulta-mantenimiento-grupo-electrogeno
+
+**Estado:** `published` · Publicada el 2026-11-25. URL: https://jm-electric.com.ar/blogs/consulta-mantenimiento-grupo-electrogeno/
